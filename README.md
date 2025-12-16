@@ -12,13 +12,7 @@
 </p>
 <hr/>
 
-<h3>🏆 GitHub Trophies</h3>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=tamimafg6&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&row=1" alt="GitHub Trophies for tamimafg6"/>
-  </a>
-</p>
-<hr/>
+
 
 <h3>📊 GitHub Stats</h3>
 <table>
